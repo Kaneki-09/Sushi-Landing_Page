@@ -6,6 +6,7 @@ import sushi10 from '../assets/sushi-10.png'
 
 import AOS from "aos";
 import "aos/dist/aos.css";
+import "aos/dist/aos.js";
 
 // init AOS animation
 AOS.init({
